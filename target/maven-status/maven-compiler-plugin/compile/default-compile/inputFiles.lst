@@ -1,0 +1,17 @@
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/controllers/SearchController.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/beans/Maladie.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/service/UserServiceImp.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/dao/DiseaseDaoImp.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/controllers/DiseaseController.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/service/UserService.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/service/DoctorServiceImp.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/dao/DiseaseDao.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/controllers/LoginController.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/beans/Patient.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/dao/UserDaoImp.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/controllers/RegistrationController.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/metier/DiseaseForm.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/beans/Medecin.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/dao/UserDao.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/metier/UserForm.java
+/root/IdeaProjects/DS_2019_R/src/main/java/com/ds/service/DoctorService.java
